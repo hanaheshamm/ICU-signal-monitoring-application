@@ -1,5 +1,5 @@
-# Multi_Channel_Signal_Viewer
-Multi_Signal_Visualizer is a robust application designed for real-time visualization of multiple signal streams. It offers dynamic control over visualization with features such as seamless navigation, zooming, aesthetic customizations, and speed control. Importantly, it supports a variety of file formats and enables exporting visualized data in PDF format, making it a comprehensive tool for signal visualization needs.
+# ICU-signal-monitoring-application
+ICU signal monitoring application is a robust application designed for real-time visualization of multiple signal streams. It offers dynamic control over visualization with features such as seamless navigation, zooming, aesthetic customizations, and speed control. Importantly, it supports a variety of file formats and enables exporting visualized data in PDF format, making it a comprehensive tool for signal visualization needs.
 
 ## Features
 - Visualization of multiple signals
